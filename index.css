@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.back {
+    background-color: #1b1b1b;
+    font-family: "bree Serif";
+    padding: 15px;
+    height:100vh;
+    width:100vw;
+    padding:10px;
+}
+
+.h0 {
+    color: white;
+    font-size: 40px;
+}
+
+.back2 {
+    background-color: #e6f6ff;
+    color: #183b56;
+    max-height:100vh;
+    width:800px;
+    margin:20px;
+    border-radius:10px;
+    padding:35px;
+}
+.back3 {
+    background-image:linear-gradient(rgb(237, 249, 184),rgb(170, 234, 240),rgb(244, 235, 243)) ;
+    color: #183b56;
+    max-height:100vh;
+    width:800px;
+    margin:20px;
+    border-radius:10px;
+}
+
+.img {
+    height: 215px;
+    margin:5px;
+}
+
+.div1 {
+    padding: 10px;
+}
+
+.img2 {
+    height: 160px;
+}
+
+.h {
+    color: white;
+    font-size: 25px;
+}
+
+.h2 {
+    color: white;
+    font-size: 20px;
+}
+
+.p {
+    color: white;
+    font-weight: 400;
+}
+
+.div2 {
+    padding: 10px;
+}
+
+.img3 {
+    height: 300px;
+}
+
+.div3 {
+    text-align: center;
+}
+.heading{
+    color:crimson;
+    text-align: center;
+}
